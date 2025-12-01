@@ -1,16 +1,16 @@
-//Q32: Write a program to check if a number is a palindrome.
+//Q33: Write a program to check if a number is an Armstrong number.
 
 /*
 Sample Test Cases:
 Input 1:
-121
+153
 Output 1:
-Palindrome
+Armstrong
 
 Input 2:
 123
 Output 2:
-Not palindrome
+Not Armstrong
 
 */
 
